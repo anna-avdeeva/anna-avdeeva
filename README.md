@@ -38,7 +38,7 @@ I'm Anna, a passionate and task-driven **frontend engineer** with 6+ years of ex
 
 ## 📫 Contacts
 
-✰ [Email](mailto:work@annaavdeeva.com?subject=message from github)
+✰ [Email](mailto:work@annaavdeeva.com?subject=message+from+github)
 
 ✰ [Personal website](https://annaavdeeva.com)
 
