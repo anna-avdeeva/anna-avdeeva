@@ -5,13 +5,13 @@ I'm Anna, a passionate and task-driven **frontend engineer** with 6+ years of ex
 ### 🔥🔥🔥 Available for full-time roles & freelance projects.
 
 
-## 🚀 Featured Work
+## 🚀 Latest Work
 
 ✰ [Eco Garant](https://eko-g.com/)
 
 ✰ [RMM](https://rmmonline.com/)
 
-✰ [Berez Media](http://berezmedia.com/)
+✰ [Voix](https://voix.us/)
 
 
 ## 👩‍💻 Portfolio
