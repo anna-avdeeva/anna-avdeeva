@@ -6,12 +6,12 @@
 
 ### eko garant
 
-[![eko-g.com](./assets/)](https://eko-g.com/)
+[![eko-g.com](./assets/eko-g.png)](https://eko-g.com/)
 
 
 ### rmmonline
 
-[![rmmonline.com](./assets/)](https://rmmonline.com/)
+[![rmmonline.com](./assets/rmmonline.png)](https://rmmonline.com/)
 
 
 ### voix.us
@@ -21,27 +21,27 @@
 
 ### extiq
 
-[![extiq.agency](./assets/)](https://extiq.agency/)
+[![extiq.agency](./assets/extiq.png)](https://extiq.agency/)
 
 
-### vapteke.info (for Diapharm)
+### vapteke.info
 
 [![vapteke.info](./assets/)](https://vapteke.info/)
 
 
 ### nihongo ichi
 
-[![nihongoichi.ru](./assets/)](http://www.nihongoichi.ru/)
+[![nihongoichi.ru](./assets/nihongoichi.png)](http://www.nihongoichi.ru/)
 
 
 ### fotomix
 
-[![fotomix-vrn.ru](./assets/)](http://fotomix-vrn.ru/)
+[![fotomix-vrn.ru](./assets/fotomix.png)](http://fotomix-vrn.ru/)
 
 
 ### tsukibanashi
 
-[![tsukibanashi.ru](./assets/)](http://tsukibanashi.ru/)
+[![tsukibanashi.ru](./assets/tsukibanashi.png)](http://tsukibanashi.ru/)
 
 
 ## 👩‍💻 Code
@@ -49,7 +49,7 @@
 
 ### berezmedia
 
-[![berezmedia.com](./assets/)](http://berezmedia.com/)
+[![berezmedia.com](./assets/berezmedia.png)](http://berezmedia.com/)
 
 
 ### busygirlblog
@@ -129,104 +129,84 @@
 
 ### msftkitchen
 
-[![msftkitchen.com](./assets/)](http://msftkitchen.com/)
+[![msftkitchen.com](./assets/msftkitchen.png)](http://msftkitchen.com/)
 
 
 ### vintageparents
 
-[![vintageparents.com](./assets/)](http://vintageparents.com/)
+[![vintageparents.com](./assets/vintageparents.png)](http://vintageparents.com/)
 
 
 ### independentfashionbloggers
 
-[![independentfashionbloggers.org](./assets/)](http://independentfashionbloggers.org/)
+[![independentfashionbloggers.org](./assets/independentfashionbloggers.png)](http://independentfashionbloggers.org/)
 
 
 ### layersmag
 
-[![layersmag.com](./assets/)](http://layersmag.com/)
+[![layersmag.com](./assets/layersmag.png)](http://layersmag.com/)
 
 
 ### lifesta
 
-[![lifesta.com](./assets/)](http://lifesta.com/)
+[![lifesta.com](./assets/lifesta.png)](http://lifesta.com/)
 
 
 ### fabonfrenchmen
 
-[![fabonfrenchmen.com](./assets/)](http://fabonfrenchmen.com/)
+[![fabonfrenchmen.com](./assets/fabonfrenchmen.png)](http://fabonfrenchmen.com/)
 
 
 ### pnop
 
-[![pnop.com](./assets/)](http://pnop.com/)
+[![pnop.com](./assets/pnop.png)](http://pnop.com/)
 
 
 ### gbcmag
 
-[![gbcmag.com](./assets/)](http://gbcmag.com/)
+[![gbcmag.com](./assets/gbcmag.png)](http://gbcmag.com/)
 
 
 ### okbridaldress
 
-[![okbridaldress.com](./assets/)](http://okbridaldress.com/)
+[![okbridaldress.com](./assets/okbridaldress.png)](http://okbridaldress.com/)
 
 
 ### paowmagazine
 
-[![paowmagazine.com](./assets/)](http://paowmagazine.com/)
+[![paowmagazine.com](./assets/paowmagazine.png)](http://paowmagazine.com/)
 
 
 ### revelblog
 
-[![revelblog.com](./assets/)](http://revelblog.com/)
+[![revelblog.com](./assets/revelblog.png)](http://revelblog.com/)
 
 
 ### thehealthycookingcoach
 
-[![thehealthycookingcoach.com](./assets/)](http://thehealthycookingcoach.com/)
+[![thehealthycookingcoach.com](./assets/thehealthycookingcoach.png)](http://thehealthycookingcoach.com/)
 
 
 ### ohheyblog
 
-[![ohheyblog.com](./assets/)](http://ohheyblog.com/)
+[![ohheyblog.com](./assets/ohheyblog.png)](http://ohheyblog.com/)
 
 
 ### wellreadreviews
 
-[![wellreadreviews.com](./assets/)](http://wellreadreviews.com/)
+[![wellreadreviews.com](./assets/wellreadreviews.png)](http://wellreadreviews.com/)
 
 
 ### workingclassmag
 
-[![workingclassmag.com](./assets/)](http://workingclassmag.com/)
+[![workingclassmag.com](./assets/workingclassmag.png)](http://workingclassmag.com/)
 
 
 ### elizamagazine
 
-[![elizamagazine.com](./assets/)](http://elizamagazine.com/)
+[![elizamagazine.com](./assets/elizamagazine.png)](http://elizamagazine.com/)
 
 
 ### bestfitbit
 
-[![bestfitbit.com](./assets/)](http://bestfitbit.com/)
-
-
-### localglamour
-
-[![localglamour.com](./assets/)](http://localglamour.com/)
-
-
-### brainorbeauty
-
-[![brainorbeauty.com](./assets/)](http://brainorbeauty.com/)
-
-
-### onlinechic
-
-[![onlinechic.com](./assets/)](http://onlinechic.com/)
-
-
-### prommafia
-
-[![prommafia.com](./assets/)](http://prommafia.com/)
+[![bestfitbit.com](./assets/bestfitbit.png)](http://bestfitbit.com/)
