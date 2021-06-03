@@ -26,7 +26,7 @@
 
 ### vapteke.info
 
-[![vapteke.info](./assets/)](https://vapteke.info/)
+[![vapteke.info](./assets/vapteke.png)](https://vapteke.info/)
 
 
 ### nihongo ichi
@@ -210,3 +210,11 @@
 ### bestfitbit
 
 [![bestfitbit.com](./assets/bestfitbit.png)](http://bestfitbit.com/)
+
+### autismdailynewscast
+
+[![autismdailynewscast.com](./assets/autismdailynewscast.png)](http://autismdailynewscast.com/)
+
+### voronezh-dom
+
+[![voronezh-dom.com](./assets/voronezhdom.png)](https://voronezh-dom.com/)
