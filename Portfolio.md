@@ -16,7 +16,7 @@
 
 ### voix.us
 
-[![voix.us](./assets/)](https://voix.us/)
+[![voix.us](./assets/voix.png)](https://voix.us/)
 
 
 ### extiq
