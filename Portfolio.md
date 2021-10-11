@@ -104,7 +104,7 @@
 
 ### hardrockinmomma
 
-[![hardrockinmomma.com](./assets/hardrockinmomma.png)](http://hardrockinmomma.com/)
+[![hardrockinmomma.com](./assets/hardrockinmomma.png)](http://hardrockinmomma.geoiq.com/)
 
 
 ### mlyfood
@@ -139,7 +139,7 @@
 
 ### independentfashionbloggers
 
-[![independentfashionbloggers.org](./assets/independentfashionbloggers.png)](http://independentfashionbloggers.org/)
+[![ifb.geoiq.com](./assets/independentfashionbloggers.png)](http://ifb.geoiq.com/)
 
 
 ### layersmag
@@ -154,7 +154,7 @@
 
 ### fabonfrenchmen
 
-[![fabonfrenchmen.com](./assets/fabonfrenchmen.png)](http://fabonfrenchmen.com/)
+[![fabon.geoiq.com](./assets/fabonfrenchmen.png)](http://fabon.geoiq.com/)
 
 
 ### pnop
@@ -164,17 +164,17 @@
 
 ### gbcmag
 
-[![gbcmag.com](./assets/gbcmag.png)](http://gbcmag.com/)
+[![gbc.geoiq.com](./assets/gbcmag.png)](http://gbc.geoiq.com/)
 
 
 ### okbridaldress
 
-[![okbridaldress.com](./assets/okbridaldress.png)](http://okbridaldress.com/)
+[![okb.geoiq.com](./assets/okbridaldress.png)](http://okb.geoiq.com/)
 
 
 ### paowmagazine
 
-[![paowmagazine.com](./assets/paowmagazine.png)](http://paowmagazine.com/)
+[![pmag.geoiq.com](./assets/paowmagazine.png)](http://pmag.geoiq.com/)
 
 
 ### revelblog
@@ -189,12 +189,12 @@
 
 ### ohheyblog
 
-[![ohheyblog.com](./assets/ohheyblog.png)](http://ohheyblog.com/)
+[![ohb.geoiq.com](./assets/ohheyblog.png)](http://ohb.geoiq.com/)
 
 
 ### wellreadreviews
 
-[![wellreadreviews.com](./assets/wellreadreviews.png)](http://wellreadreviews.com/)
+[![wellreadreviews.geoiq.com](./assets/wellreadreviews.png)](http://wellreadreviews.geoiq.com/)
 
 
 ### workingclassmag
@@ -209,7 +209,7 @@
 
 ### bestfitbit
 
-[![bestfitbit.com](./assets/bestfitbit.png)](http://bestfitbit.com/)
+[![best.geoiq.com](./assets/bestfitbit.png)](http://best.geoiq.com/)
 
 ### autismdailynewscast
 
