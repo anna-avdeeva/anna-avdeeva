@@ -36,7 +36,7 @@
 
 ### fotomix
 
-[![fotomix-vrn.ru](./assets/fotomix.png)](http://fotomix-vrn.ru/)
+[![fotomix-vrn.ru](./assets/fotomix-redesign.png)](http://fotomix-vrn.ru/)
 
 
 ### tsukibanashi
