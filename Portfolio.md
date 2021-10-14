@@ -31,12 +31,12 @@
 
 ### nihongo ichi
 
-[![nihongoichi.ru](./assets/nihongoichi.png)](http://www.nihongoichi.ru/)
+[nihongoichi.ru](./assets/nihongoichi.png)
 
 
 ### fotomix
 
-[![fotomix-vrn.ru](./assets/fotomix-redesign.png)](http://fotomix-vrn.ru/)
+[![fotomix-vrn.ru](./assets/fotomix-redesign.png)](https://fotomix-vrn.ru/)
 
 
 ### tsukibanashi
@@ -49,171 +49,171 @@
 
 ### berezmedia
 
-[![berezmedia.com](./assets/berezmedia.png)](http://berezmedia.com/)
+[![berezmedia.com](./assets/berezmedia.png)](https://berezmedia.com/)
 
 
 ### busygirlblog
 
-[![busygirlblog.com](./assets/busygirlblog.png)](http://busygirlblog.com/)
+[![busygirlblog.com](./assets/busygirlblog.png)](https://busygirlblog.com/)
 
 
 ### chronicled-blog
 
-[![chronicled-blog.com](./assets/chronicled-blog.png)](http://chronicled-blog.com/)
+[![chronicled-blog.com](./assets/chronicled-blog.png)](https://chronicled-blog.com/)
 
 
 ### colormebluefashion
 
-[![colormebluefashion.com](./assets/colormebluefashion.png)](http://colormebluefashion.com/)
+[![colormebluefashion.com](./assets/colormebluefashion.png)](https://colormebluefashion.com/)
 
 
 ### cookingdonelight
 
-[![cookingdonelight.com](./assets/cookingdonelight.png)](http://cookingdonelight.com/)
+[![cookingdonelight.com](./assets/cookingdonelight.png)](https://cookingdonelight.com/)
 
 
 ### fashionshanty
 
-[![fashionshanty.com](./assets/fashionshanty.png)](http://fashionshanty.com/)
+[![fashionshanty.com](./assets/fashionshanty.png)](https://fashionshanty.com/)
 
 
 ### fashionstyleology
 
-[![fashionstyleology.com](./assets/fashionstyleology.png)](http://fashionstyleology.com/)
+[![fashionstyleology.com](./assets/fashionstyleology.png)](https://fashionstyleology.com/)
 
 
 ### flatironmag
 
-[![flatironmag.com](./assets/flatironmag.png)](http://flatironmag.com/)
+[![flatironmag.com](./assets/flatironmag.png)](https://flatironmag.com/)
 
 
 ### foodieandthechef
 
-[![foodieandthechef.com](./assets/foodieandthechef.png)](http://foodieandthechef.com/)
+[![foodieandthechef.com](./assets/foodieandthechef.png)](https://foodieandthechef.geoiq.com/)
 
  
 ### foodietune
 
-[![foodietune.com](./assets/foodietune.png)](http://foodietune.com/)
+[![foodietune.com](./assets/foodietune.png)](https://foodietune.com/)
 
 
 ### loverlysheblog
 
-[![loverlysheblog.com](./assets/loverlysheblog.png)](http://loverlysheblog.com/)
+[![loverlysheblog.com](./assets/loverlysheblog.png)](https://loverlysheblog.com/)
 
 
 ### hardrockinmomma
 
-[![hardrockinmomma.com](./assets/hardrockinmomma.png)](http://hardrockinmomma.geoiq.com/)
+[![hardrockinmomma.com](./assets/hardrockinmomma.png)](https://hardrockinmomma.geoiq.com/)
 
 
 ### mlyfood
 
-[![mlyfood.com](./assets/mlyfood.png)](http://mlyfood.com/)
+[![mlyfood.com](./assets/mlyfood.png)](https://mlyfood.com/)
 
 
 ### motivatorcoach
 
-[![motivatorcoach.com](./assets/motivatorcoach.png)](http://motivatorcoach.com/)
+[![motivatorcoach.com](./assets/motivatorcoach.png)](https://motivatorcoach.geoiq.com/)
 
 
 ### sheswickedhealthy
 
-[![sheswickedhealthy.com](./assets/sheswickedhealthy.png)](http://sheswickedhealthy.com/)
+[![sheswickedhealthy.com](./assets/sheswickedhealthy.png)](https://sheswickedhealthy.com/)
 
 
 ### veggytopia
 
-[![veggytopia.com](./assets/veggytopia.png)](http://veggytopia.com/)
+[![veggytopia.com](./assets/veggytopia.png)](https://veggytopia.com/)
 
 
 ### msftkitchen
 
-[![msftkitchen.com](./assets/msftkitchen.png)](http://msftkitchen.com/)
+[![msftkitchen.com](./assets/msftkitchen.png)](https://msftkitchen.geoiq.com/)
 
 
 ### vintageparents
 
-[![vintageparents.com](./assets/vintageparents.png)](http://vintageparents.com/)
+[![vintageparents.com](./assets/vintageparents.png)](https://vintageparents.com/)
 
 
 ### independentfashionbloggers
 
-[![ifb.geoiq.com](./assets/independentfashionbloggers.png)](http://ifb.geoiq.com/)
+[![ifb.geoiq.com](./assets/independentfashionbloggers.png)](https://independentfashionbloggers.org)
 
 
 ### layersmag
 
-[![layersmag.com](./assets/layersmag.png)](http://layersmag.com/)
+[![layersmag.com](./assets/layersmag.png)](https://layersmag.com/)
 
 
 ### lifesta
 
-[![lifesta.com](./assets/lifesta.png)](http://lifesta.com/)
+[![lifesta.com](./assets/lifesta.png)](https://lifesta.com/)
 
 
 ### fabonfrenchmen
 
-[![fabon.geoiq.com](./assets/fabonfrenchmen.png)](http://fabon.geoiq.com/)
+[![fabon.geoiq.com](./assets/fabonfrenchmen.png)](https://fabonfrenchmen.geoiq.com/)
 
 
 ### pnop
 
-[![pnop.com](./assets/pnop.png)](http://pnop.com/)
+[![pnop.com](./assets/pnop.png)](https://pnop.com/)
 
 
 ### gbcmag
 
-[![gbc.geoiq.com](./assets/gbcmag.png)](http://gbc.geoiq.com/)
+[![gbc.geoiq.com](./assets/gbcmag.png)](https://gbcmag.geoiq.com/)
 
 
 ### okbridaldress
 
-[![okb.geoiq.com](./assets/okbridaldress.png)](http://okb.geoiq.com/)
+[![okb.geoiq.com](./assets/okbridaldress.png)](https://okbridaldress.geoiq.com/)
 
 
 ### paowmagazine
 
-[![pmag.geoiq.com](./assets/paowmagazine.png)](http://pmag.geoiq.com/)
+[![pmag.geoiq.com](./assets/paowmagazine.png)](https://paowmagazine.geoiq.com/)
 
 
 ### revelblog
 
-[![revelblog.com](./assets/revelblog.png)](http://revelblog.com/)
+[![revelblog.com](./assets/revelblog.png)](https://revelblog.com/)
 
 
 ### thehealthycookingcoach
 
-[![thehealthycookingcoach.com](./assets/thehealthycookingcoach.png)](http://thehealthycookingcoach.com/)
+[![thehealthycookingcoach.com](./assets/thehealthycookingcoach.png)](https://thehealthycookingcoach.com/)
 
 
 ### ohheyblog
 
-[![ohb.geoiq.com](./assets/ohheyblog.png)](http://ohb.geoiq.com/)
+[![ohb.geoiq.com](./assets/ohheyblog.png)](https://ohheyblog.geoiq.com/)
 
 
 ### wellreadreviews
 
-[![wellreadreviews.geoiq.com](./assets/wellreadreviews.png)](http://wellreadreviews.geoiq.com/)
+[![wellreadreviews.geoiq.com](./assets/wellreadreviews.png)](https://wellreadreviews.geoiq.com/)
 
 
 ### workingclassmag
 
-[![workingclassmag.com](./assets/workingclassmag.png)](http://workingclassmag.com/)
+[![workingclassmag.com](./assets/workingclassmag.png)](https://workingclassmag.com/)
 
 
 ### elizamagazine
 
-[![elizamagazine.com](./assets/elizamagazine.png)](http://elizamagazine.com/)
+[![elizamagazine.com](./assets/elizamagazine.png)](https://elizamagazine.com/)
 
 
 ### bestfitbit
 
-[![best.geoiq.com](./assets/bestfitbit.png)](http://best.geoiq.com/)
+[![best.geoiq.com](./assets/bestfitbit.png)](https://bestfitbit.geoiq.com/)
 
 ### autismdailynewscast
 
-[![autismdailynewscast.com](./assets/autismdailynewscast.png)](http://autismdailynewscast.com/)
+[![autismdailynewscast.com](./assets/autismdailynewscast.png)](https://www.autismdailynewscast.com/)
 
 ### voronezh-dom
 
