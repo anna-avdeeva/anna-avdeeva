@@ -31,7 +31,7 @@
 
 ### nihongo ichi
 
-[nihongoichi.ru](./assets/nihongoichi.png)
+![nihongoichi.ru](./assets/nihongoichi.png)
 
 
 ### fotomix
