@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Anna, a passionate and task-driven **frontend engineer** with 6+ years of experience building scalable interactive web applications for companies, startups, and individuals.
+I'm Anna, a passionate and task-driven **frontend engineer** with 8+ years of experience building scalable interactive web applications for companies, startups, and individuals.
 
 
 
