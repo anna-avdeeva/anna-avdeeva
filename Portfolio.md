@@ -26,7 +26,7 @@
 
 ### vapteke.info
 
-[![vapteke.info](./assets/vapteke.png)](https://vapteke.info/)
+![vapteke.info](./assets/vapteke.png)
 
 
 ### nihongo ichi
@@ -144,12 +144,12 @@
 
 ### layersmag
 
-[![layersmag.com](./assets/layersmag.png)](https://layersmag.com/)
+[![layersmag.geoiq.com](./assets/layersmag.png)](https://layersmag.geoiq.com/)
 
 
 ### lifesta
 
-[![lifesta.com](./assets/lifesta.png)](https://lifesta.com/)
+[![lifesta.geoiq.com](./assets/lifesta.png)](https://lifesta.geoiq.com/)
 
 
 ### fabonfrenchmen
@@ -159,7 +159,7 @@
 
 ### pnop
 
-[![pnop.com](./assets/pnop.png)](https://pnop.com/)
+[![pnop.geoiq.com](./assets/pnop.png)](https://pnop.geoiq.com/)
 
 
 ### gbcmag
@@ -179,7 +179,7 @@
 
 ### revelblog
 
-[![revelblog.com](./assets/revelblog.png)](https://revelblog.com/)
+[![revelblog.geoiq.com](./assets/revelblog.png)](https://revelblog.geoiq.com/)
 
 
 ### thehealthycookingcoach
@@ -213,7 +213,7 @@
 
 ### autismdailynewscast
 
-[![autismdailynewscast.com](./assets/autismdailynewscast.png)](https://www.autismdailynewscast.com/)
+![autismdailynewscast.com](./assets/autismdailynewscast.png)
 
 ### voronezh-dom
 
