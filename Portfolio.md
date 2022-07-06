@@ -6,22 +6,22 @@
 
 ### eko garant
 
-[![eko-g.com](./assets/eko-g.png)](https://eko-g.com/)
+![eko-g.com](./assets/eko-g.png)
 
 
 ### rmmonline
 
-[![rmmonline.com](./assets/rmmonline.png)](https://rmmonline.com/)
+![rmmonline.com](./assets/rmmonline.png)
 
 
 ### voix.us
 
-[![voix.us](./assets/voix.png)](https://voix.us/)
+![voix.us](./assets/voix.png)
 
 
 ### extiq
 
-[![extiq.agency](./assets/extiq.png)](https://extiq.agency/)
+![extiq.agency](./assets/extiq.png)
 
 
 ### vapteke.info
@@ -36,12 +36,12 @@
 
 ### fotomix
 
-[![fotomix-vrn.ru](./assets/fotomix-redesign.png)](https://fotomix-vrn.ru/)
+![fotomix-vrn.ru](./assets/fotomix-redesign.png)
 
 
 ### tsukibanashi
 
-[![tsukibanashi.ru](./assets/tsukibanashi.png)](http://tsukibanashi.ru/)
+![tsukibanashi.ru](./assets/tsukibanashi.png)
 
 
 ## 👩‍💻 Code
@@ -49,172 +49,168 @@
 
 ### berezmedia
 
-[![berezmedia.com](./assets/berezmedia.png)](https://berezmedia.com/)
+![berezmedia.com](./assets/berezmedia.png)
 
 
 ### busygirlblog
 
-[![busygirlblog.com](./assets/busygirlblog.png)](https://busygirlblog.com/)
+![busygirlblog.com](./assets/busygirlblog.png)
 
 
 ### chronicled-blog
 
-[![chronicled-blog.com](./assets/chronicled-blog.png)](https://chronicled-blog.com/)
+![chronicled-blog.com](./assets/chronicled-blog.png)
 
 
 ### colormebluefashion
 
-[![colormebluefashion.com](./assets/colormebluefashion.png)](https://colormebluefashion.com/)
+![colormebluefashion.com](./assets/colormebluefashion.png)
 
 
 ### cookingdonelight
 
-[![cookingdonelight.com](./assets/cookingdonelight.png)](https://cookingdonelight.com/)
+![cookingdonelight.com](./assets/cookingdonelight.png)
 
 
 ### fashionshanty
 
-[![fashionshanty.com](./assets/fashionshanty.png)](https://fashionshanty.com/)
+![fashionshanty.com](./assets/fashionshanty.png)
 
 
 ### fashionstyleology
 
-[![fashionstyleology.com](./assets/fashionstyleology.png)](https://fashionstyleology.com/)
+![fashionstyleology.com](./assets/fashionstyleology.png)
 
 
 ### flatironmag
 
-[![flatironmag.com](./assets/flatironmag.png)](https://flatironmag.com/)
+![flatironmag.com](./assets/flatironmag.png)
 
 
 ### foodieandthechef
 
-[![foodieandthechef.com](./assets/foodieandthechef.png)](https://foodieandthechef.geoiq.com/)
+![foodieandthechef.com](./assets/foodieandthechef.png)
 
  
 ### foodietune
 
-[![foodietune.com](./assets/foodietune.png)](https://foodietune.com/)
+![foodietune.com](./assets/foodietune.png)
 
 
 ### loverlysheblog
 
-[![loverlysheblog.com](./assets/loverlysheblog.png)](https://loverlysheblog.com/)
+![loverlysheblog.com](./assets/loverlysheblog.png)
 
 
 ### hardrockinmomma
 
-[![hardrockinmomma.com](./assets/hardrockinmomma.png)](https://hardrockinmomma.geoiq.com/)
+![hardrockinmomma.com](./assets/hardrockinmomma.png)
 
 
 ### mlyfood
 
-[![mlyfood.com](./assets/mlyfood.png)](https://mlyfood.com/)
+![mlyfood.com](./assets/mlyfood.png)
 
 
 ### motivatorcoach
 
-[![motivatorcoach.com](./assets/motivatorcoach.png)](https://motivatorcoach.geoiq.com/)
+![motivatorcoach.com](./assets/motivatorcoach.png)
 
 
 ### sheswickedhealthy
 
-[![sheswickedhealthy.com](./assets/sheswickedhealthy.png)](https://sheswickedhealthy.com/)
+![sheswickedhealthy.com](./assets/sheswickedhealthy.png)
 
 
 ### veggytopia
 
-[![veggytopia.com](./assets/veggytopia.png)](https://veggytopia.com/)
+![veggytopia.com](./assets/veggytopia.png)
 
 
 ### msftkitchen
 
-[![msftkitchen.com](./assets/msftkitchen.png)](https://msftkitchen.geoiq.com/)
+![msftkitchen.com](./assets/msftkitchen.png)
 
 
 ### vintageparents
 
-[![vintageparents.com](./assets/vintageparents.png)](https://vintageparents.com/)
+![vintageparents.com](./assets/vintageparents.png)
 
 
 ### independentfashionbloggers
 
-[![ifb.geoiq.com](./assets/independentfashionbloggers.png)](https://independentfashionbloggers.org)
+![independentfashionbloggers.com](./assets/independentfashionbloggers.png)
 
 
 ### layersmag
 
-[![layersmag.geoiq.com](./assets/layersmag.png)](https://layersmag.geoiq.com/)
+![layersmag.com](./assets/layersmag.png)
 
 
 ### lifesta
 
-[![lifesta.geoiq.com](./assets/lifesta.png)](https://lifesta.geoiq.com/)
+![lifesta.com](./assets/lifesta.png)
 
 
 ### fabonfrenchmen
 
-[![fabon.geoiq.com](./assets/fabonfrenchmen.png)](https://fabonfrenchmen.geoiq.com/)
+![fabonfrenchmen.com](./assets/fabonfrenchmen.png)
 
 
 ### pnop
 
-[![pnop.geoiq.com](./assets/pnop.png)](https://pnop.geoiq.com/)
+![pnop.com](./assets/pnop.png)
 
 
 ### gbcmag
 
-[![gbc.geoiq.com](./assets/gbcmag.png)](https://gbcmag.geoiq.com/)
+![gbcmag.com](./assets/gbcmag.png)
 
 
 ### okbridaldress
 
-[![okb.geoiq.com](./assets/okbridaldress.png)](https://okbridaldress.geoiq.com/)
+![okbridaldress.com](./assets/okbridaldress.png)
 
 
 ### paowmagazine
 
-[![pmag.geoiq.com](./assets/paowmagazine.png)](https://paowmagazine.geoiq.com/)
+![paowmagazine.com](./assets/paowmagazine.png)
 
 
 ### revelblog
 
-[![revelblog.geoiq.com](./assets/revelblog.png)](https://revelblog.geoiq.com/)
+![revelblog.com](./assets/revelblog.png)
 
 
 ### thehealthycookingcoach
 
-[![thehealthycookingcoach.com](./assets/thehealthycookingcoach.png)](https://thehealthycookingcoach.com/)
+![thehealthycookingcoach.com](./assets/thehealthycookingcoach.png)
 
 
 ### ohheyblog
 
-[![ohb.geoiq.com](./assets/ohheyblog.png)](https://ohheyblog.geoiq.com/)
+![ohheyblog.com](./assets/ohheyblog.png)
 
 
 ### wellreadreviews
 
-[![wellreadreviews.geoiq.com](./assets/wellreadreviews.png)](https://wellreadreviews.geoiq.com/)
+![wellreadreviews.com](./assets/wellreadreviews.png)
 
 
 ### workingclassmag
 
-[![workingclassmag.com](./assets/workingclassmag.png)](https://workingclassmag.com/)
+![workingclassmag.com](./assets/workingclassmag.png)
 
 
 ### elizamagazine
 
-[![elizamagazine.com](./assets/elizamagazine.png)](https://elizamagazine.com/)
+![elizamagazine.com](./assets/elizamagazine.png)
 
 
 ### bestfitbit
 
-[![best.geoiq.com](./assets/bestfitbit.png)](https://bestfitbit.geoiq.com/)
+![bestfitbit.com](./assets/bestfitbit.png)
 
 ### autismdailynewscast
 
 ![autismdailynewscast.com](./assets/autismdailynewscast.png)
-
-### voronezh-dom
-
-[![voronezh-dom.com](./assets/voronezhdom.png)](https://voronezh-dom.com/)
