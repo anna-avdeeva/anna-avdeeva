@@ -13,11 +13,6 @@ I'm Anna, a passionate and task-driven **frontend engineer** with 8+ years of ex
 ✰ [Voix](https://voix.us/)
 
 
-## 👩‍💻 Portfolio
-
-✰ [All Works](Portfolio.md)
-
-
 ## 👩‍🔧 Skills
 
 [![HTML](https://img.shields.io/badge/HTML-★★★★★-informational?style=flat&logo=HTML5&color=success)](https://html.spec.whatwg.org/)
