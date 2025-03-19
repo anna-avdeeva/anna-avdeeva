@@ -10,5 +10,3 @@ I'm Anna, a passionate and task-driven **frontend engineer** with 8+ years of ex
 ✰ [Personal website](https://annaavdeeva.com)
 
 ✰ [LinkedIn](https://www.linkedin.com/in/anna-avdeeva/)
-
-✰ [Instagram](https://www.instagram.com/code.with.anna/)
